@@ -1,0 +1,50 @@
+{
+  "extra_params": [
+    {
+      "param_value": "Luis Alejandro Garcia Ortiz",
+      "param_name": "Nombre del cliente",
+      "param_id": 501
+    },
+    {
+      "param_value": "0230454875450",
+      "param_name": "Cuenta",
+      "param_id": 502
+    },
+    {
+      "param_value": "01/01/1999",
+      "param_name": "Fecha de registro",
+      "param_id": 503
+    }
+  ],
+  "customer_address": {
+    "firstname": "Luis",
+    "state_name": "Nuevo León",
+    "lastname": "Garcia",
+    "country": {
+      "code": "MEX",
+      "name": "México"
+    },
+    "state": {
+      "code": "NL",
+      "name": "Nuevo León"
+    },
+    "city": {
+      "code": "MTY",
+      "name": "Monterrey"
+    }
+  },
+  "street": "Nombre de la calle",
+  "int_number": "Numero interior",
+  "ext_number": "Numero exterior",
+  "postal_code": "64700",
+  "telephone": "+52445578878",
+  "email": "lgarcia@myemail.com",
+  "suburb": "Nombre de colonia",
+  "cardholder": {
+    "cardholder_name": "Luis Garcia",
+    "card_number": "10000000000000000",
+    "card_expiration_month": "01",
+    "card_expiration_year": "2024",
+    "card_security_code": "123"
+  }
+}
